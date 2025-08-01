@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **AI-powered tools**
 
-- 👨‍💻 All of my projects are available at [https://seth-valentines-tech-hub.vercel.app/](https://seth-valentines-tech-hub.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://seth-valentine-portfolio.vercel.app//](https://seth-valentine-portfolio.vercel.app/)
 
 - 💬 Ask me about **React • Vue • GSAP • AI integration • Web design • Creative coding • SQL**
 
